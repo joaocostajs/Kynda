@@ -1,0 +1,12 @@
+{
+"device1": {
+    "name": "Piston One",
+    "ip": "127.0.0.1",
+    "id": 0
+  },
+  "device2": {
+    "name": "Piston Two",
+    "ip": "0.0.0.0",
+    "id": 1
+  }
+}
