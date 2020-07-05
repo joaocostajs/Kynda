@@ -1,5 +1,4 @@
 import React from 'react';
-import Burguer from "./Burguer";
 import {sendRequest} from "../helpers";
 
 import palm from '../img/palm.svg';
@@ -62,8 +61,6 @@ if(e.target.parentElement.classList.contains('buttons')){
             </div>
             </div>
 
-            <Burguer push={this.props.history} />
-               {/* < About /> */}
            
            
            </React.Fragment>
